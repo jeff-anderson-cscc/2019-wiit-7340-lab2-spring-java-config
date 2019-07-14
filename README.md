@@ -1,4 +1,4 @@
-# Lab 1: Configuring Spring with Java
+# Lab 2: Configuring Spring with Java
 
 In this lab you will get hands on practice configuring the Spring IOC container using Java.
 ## Getting Started
