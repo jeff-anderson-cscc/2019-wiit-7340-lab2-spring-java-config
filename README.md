@@ -26,6 +26,14 @@ Instructions for completing the assignment:
     * Enter a proper comment
     * Uncheck "Perform code analysis"
 
+
+## Hints from the Documentation
+
+1. The IoC Container
+    * [1.12.1. Basic Concepts: @Bean and @Configuration](https://docs.spring.io/spring-framework/docs/current/spring-framework-reference/core.html#beans-java-basic-concepts)
+    * [1.12.4. Using the @Configuration annotation](https://docs.spring.io/spring-framework/docs/current/spring-framework-reference/core.html#beans-java-configuration-annotation)
+    * [1.12.3. Using the @Bean Annotation](https://docs.spring.io/spring-framework/docs/current/spring-framework-reference/core.html#beans-java-bean-annotation)
+
 ## Submitting your work
 
 
